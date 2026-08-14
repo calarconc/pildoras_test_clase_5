@@ -10,9 +10,3 @@ elif modo == "Farenheit a Celsius":
     resultado = (valor - 32) * 5/9 
 elif modo == "Celsius a Kelvin":
     resultado = valor + 273.15
-    st
-
-celsius = st.number_input("Grados Celsius")
-fahrenheint =celsius * 9/5+32
-st.write(f"{celsius} °c son {fahrenheint} °f")
-print("Cambios")
