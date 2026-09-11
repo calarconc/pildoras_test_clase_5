@@ -7,3 +7,7 @@ git merge login -> funcionar o combinar ramas
 git reset -- hard    -> Reiniciar. -
 
 git status -> para saber en que rama estoy
+
+
+  Curso de git $ 5 | Git vs Git hub
+  
