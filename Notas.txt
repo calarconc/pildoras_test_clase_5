@@ -1,0 +1,9 @@
+Curso Git # 4 | Merge y conflicts
+git switch main -> me ayuda a dirigisme en la raiz
+git merge login -> funcionar o combinar ramas
+
+# conflicto en los merge
+
+git reset -- hard    -> Reiniciar. -
+
+git status -> para saber en que rama estoy
