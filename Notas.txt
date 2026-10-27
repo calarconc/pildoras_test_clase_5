@@ -13,4 +13,11 @@ Curso de git $ 5 | Git vs Git hub
 
 Como cargar el codigo en la nube
 
+origin -> es un alias
+dos formas de trabajar con la nube. 
+1. se utiliza -- $git clone <URL>
+2. tenemos el proyecto en local y debemos cargarlo en la nube s utiliza -- $ git remote add origin <URL>
+
+git fetch trae lo que esta en la nube pero no los mezcla mientras que el git pull trae los datos y los mezcla
+
   
