@@ -9,5 +9,8 @@ git reset -- hard    -> Reiniciar. -
 git status -> para saber en que rama estoy
 
 
-  Curso de git $ 5 | Git vs Git hub
+Curso de git $ 5 | Git vs Git hub
+
+Como cargar el codigo en la nube
+
   
